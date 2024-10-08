@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Meza</h1>
-<h3 align="center">A passionate Data Analyst from Argentina</h3>
+<h3 align="center">A passionate Data Scientist from Argentina</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MezaMauricio?tab=repositories](https://github.com/MezaMauricio?tab=repositories)
 
-- 💬 Ask me about **Data, SQL, DML, DDL**
+- 💬 Ask me about **Data, SQL, Python, Power BI**
 
 - 📫 How to reach me **mezamauriciojose@gmail.com**
 
