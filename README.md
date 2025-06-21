@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Meza</h1>
-<h3 align="center">A passionate Data Scientist from Argentina</h3>
+<h3 align="center">A passionate Data Analyst and Scientist from Argentina</h3>
 
 - 🔭 I’m currently working on **personal projects**
 
