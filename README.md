@@ -38,7 +38,7 @@ What I actually do:
 
 - **Financial Intelligence App** — Prophet forecasting, anomaly detection, XGBoost risk scoring and clustering, deployed on Fly.io.
 - **AI Reservations Agent** — WhatsApp agent built with n8n: audio transcription, intent classification, tool use and conversation memory (Gemini).
-- **norbiz — Business Management Platform** — SaaS with an AI-driven quality-audit routine powered by LLM agents.
+- **Quanta — Business Management Platform** — SaaS with an AI-driven quality-audit routine powered by LLM agents.
 - **BI & Analytics** — multi-page financial dashboards in Power BI with advanced DAX, plus automated ETL and AI-generated alerts.
 
 ---
